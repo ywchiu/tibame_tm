@@ -25,3 +25,8 @@
 - 
 
 ## 作業
+
+## 參考資源
+
+### 網路爬蟲
+- https://www.largitdata.com/course_list/1
