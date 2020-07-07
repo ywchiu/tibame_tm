@@ -33,6 +33,9 @@ L10. 評比各種分類模型
 
 ## 作業
 
+L1. 撰寫網路爬蟲搜集商品評論
+- https://github.com/ywchiu/tibame_tm/blob/master/Homework1.ipynb
+
 ## 參考資源
 
 ### 網路爬蟲
