@@ -40,3 +40,6 @@ L1. 撰寫網路爬蟲搜集商品評論
 
 ### 網路爬蟲
 - https://www.largitdata.com/course_list/1
+
+### Selenium
+- https://www.largitdata.com/course_list/15
