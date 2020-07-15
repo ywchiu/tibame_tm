@@ -12,6 +12,7 @@ L1. 撰寫網路爬蟲搜集商品評論
 - https://github.com/ywchiu/tibame_tm/blob/master/L1_撰寫網路爬蟲搜集商品評論.ipynb
 
 L2. 文字資料處理
+- https://github.com/ywchiu/tibame_tm/blob/master/L2_文字資料處理.ipynb
 
 L3. 建立詞頻矩陣
 
@@ -35,6 +36,10 @@ L10. 評比各種分類模型
 
 L1. 撰寫網路爬蟲搜集商品評論
 - https://github.com/ywchiu/tibame_tm/blob/master/Homework1.ipynb
+
+
+L2. 文字資料處理
+- https://github.com/ywchiu/tibame_tm/blob/master/Homework2.ipynb
 
 ## 參考資源
 
