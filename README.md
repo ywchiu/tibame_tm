@@ -15,8 +15,10 @@ L2. 文字資料處理
 - https://github.com/ywchiu/tibame_tm/blob/master/L2_文字資料處理.ipynb
 
 L3. 建立詞頻矩陣
+- https://github.com/ywchiu/tibame_tm/blob/master/Demo20200722.ipynb
 
 L4. 文章相似度計算
+- https://github.com/ywchiu/tibame_tm/blob/master/Demo20200729.ipynb
 
 L5. 機器學習
 
@@ -37,12 +39,14 @@ L10. 評比各種分類模型
 L1. 撰寫網路爬蟲搜集商品評論
 - https://github.com/ywchiu/tibame_tm/blob/master/Homework1.ipynb
 
-
 L2. 文字資料處理
 - https://github.com/ywchiu/tibame_tm/blob/master/Homework2.ipynb
 
 L3. 建立詞頻矩陣
 - https://github.com/ywchiu/tibame_tm/blob/master/Homework3.ipynb
+
+L4. 文章相似度計算
+- https://github.com/ywchiu/tibame_tm/blob/master/Homework4.ipynb
 
 ## 參考資源
 
