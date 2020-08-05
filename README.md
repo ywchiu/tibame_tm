@@ -21,6 +21,7 @@ L4. 文章相似度計算
 - https://github.com/ywchiu/tibame_tm/blob/master/Demo20200729.ipynb
 
 L5. 機器學習
+- https://github.com/ywchiu/tibame_tm/blob/master/Demo20200805.ipynb
 
 L6. 運用貝式分類法分類文字
 
@@ -47,6 +48,9 @@ L3. 建立詞頻矩陣
 
 L4. 文章相似度計算
 - https://github.com/ywchiu/tibame_tm/blob/master/Homework4.ipynb
+
+L5. 機器學習
+- https://github.com/ywchiu/tibame_tm/blob/master/Homework5.ipynb
 
 ## 參考資源
 
