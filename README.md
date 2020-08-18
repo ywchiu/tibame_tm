@@ -24,6 +24,7 @@ L5. 機器學習
 - https://github.com/ywchiu/tibame_tm/blob/master/Demo20200805.ipynb
 
 L6. 運用貝式分類法分類文字
+- https://github.com/ywchiu/tibame_tm/blob/master/Demo20200812.ipynb
 
 L7. 建立情緒分類模型分析消費者評論(機器學習)
 
@@ -51,6 +52,9 @@ L4. 文章相似度計算
 
 L5. 機器學習
 - https://github.com/ywchiu/tibame_tm/blob/master/Homework5.ipynb
+
+L6. 運用貝式分類法分類文字
+- https://github.com/ywchiu/tibame_tm/blob/master/Homework6.ipynb
 
 ## 參考資源
 
