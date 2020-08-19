@@ -27,6 +27,7 @@ L6. 運用貝式分類法分類文字
 - https://github.com/ywchiu/tibame_tm/blob/master/Demo20200812.ipynb
 
 L7. 建立情緒分類模型分析消費者評論(機器學習)
+- https://github.com/ywchiu/tibame_tm/blob/master/Demo20200819.ipynb
 
 L8. 運用詞向量分類文字(深度學習)
 
