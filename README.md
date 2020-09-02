@@ -33,6 +33,7 @@ L8. 運用詞向量分類文字(深度學習)
 - https://github.com/ywchiu/tibame_tm/blob/master/Demo20200826.ipynb
 
 L9. 文字探勘與深度學習方法
+- https://github.com/ywchiu/tibame_tm/blob/master/Demo20200902.ipynb
 
 L10. 評比各種分類模型
 
@@ -63,6 +64,9 @@ L7. 建立情緒分類模型分析消費者評論(機器學習)
 
 L8. 運用詞向量分類文字(深度學習)
 - https://github.com/ywchiu/tibame_tm/blob/master/Homework8.ipynb
+
+L9. 文字探勘與深度學習方法
+- https://github.com/ywchiu/tibame_tm/blob/master/Homework9.ipynb
 
 
 ## 參考資源
