@@ -36,6 +36,7 @@ L9. 文字探勘與深度學習方法
 - https://github.com/ywchiu/tibame_tm/blob/master/Demo20200902.ipynb
 
 L10. 評比各種分類模型
+- https://github.com/ywchiu/tibame_tm/blob/master/Demo20200909.ipynb
 
 ## 課程筆記
 
@@ -68,6 +69,8 @@ L8. 運用詞向量分類文字(深度學習)
 L9. 文字探勘與深度學習方法
 - https://github.com/ywchiu/tibame_tm/blob/master/Homework9.ipynb
 
+L10. 評比各種分類模型
+- https://github.com/ywchiu/tibame_tm/blob/master/Homework10.ipynb
 
 ## 參考資源
 
